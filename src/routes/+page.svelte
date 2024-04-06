@@ -1,6 +1,7 @@
-<div class="container p-20 h-full mx-auto flex justify-center items-center">
+<div class="container pt-20 px-5 h-full mx-auto flex justify-center items-center">
 	<div class="space-y-5">
-		<h1 class="h1">3 декабря 2:18 (пятница ночь)</h1>
+		<h1 class="h1">3 декабря 2:18</h1>
+		<p>(пятница ночь)</p>
 		<p class="text-justify">
 			В моей жизни за 1 неделю произошло то, чего я не ждала. 28 ноября я поцеловалась с Эркутом на
 			1 Блоке 2 этаж 2я кухня Словакия Млада Гарда. 1-2 декабря я немного полетала с ним в его
